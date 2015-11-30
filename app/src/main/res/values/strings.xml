@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="ip">IP:</string>
+    <string name="conectar">Conectar</string>
+    <string name="conexao">Configurações de rede:</string>
+    <string name="config_tempo">Definições de tempo:</string>
+    <string name="min3">3 minutos</string>
+    <string name="min2">2 minutos</string>
+    <string name="min1">1 minuto</string>
+    <string name="cronometragem">Cronometragem:</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="parar">Parar</string>
+</resources>
